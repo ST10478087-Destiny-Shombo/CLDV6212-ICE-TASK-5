@@ -1,0 +1,71 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\emeris\\source\\repos\\ICE TASK 5\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{B253D90C-1EC1-4A0E-8775-4D6684FCE6F2}|ICE TASK 5\\ICE TASK 4.csproj|c:\\users\\emeris\\source\\repos\\ice task 5\\ice task 5\\notes service\\notes-service.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{B253D90C-1EC1-4A0E-8775-4D6684FCE6F2}|ICE TASK 5\\ICE TASK 4.csproj|solutionrelative:ice task 5\\notes service\\notes-service.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B253D90C-1EC1-4A0E-8775-4D6684FCE6F2}|ICE TASK 5\\ICE TASK 4.csproj|c:\\users\\emeris\\source\\repos\\ice task 5\\ice task 5\\ice task 4.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{B253D90C-1EC1-4A0E-8775-4D6684FCE6F2}|ICE TASK 5\\ICE TASK 4.csproj|solutionrelative:ice task 5\\ice task 4.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B253D90C-1EC1-4A0E-8775-4D6684FCE6F2}|ICE TASK 5\\ICE TASK 4.csproj|c:\\users\\emeris\\source\\repos\\ice task 5\\ice task 5\\api gateway\\api-gateway.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{B253D90C-1EC1-4A0E-8775-4D6684FCE6F2}|ICE TASK 5\\ICE TASK 4.csproj|solutionrelative:ice task 5\\api gateway\\api-gateway.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "notes-service.js",
+              "DocumentMoniker": "C:\\Users\\emeris\\source\\repos\\ICE TASK 5\\ICE TASK 5\\Notes Service\\notes-service.js",
+              "RelativeDocumentMoniker": "ICE TASK 5\\Notes Service\\notes-service.js",
+              "ToolTip": "C:\\Users\\emeris\\source\\repos\\ICE TASK 5\\ICE TASK 5\\Notes Service\\notes-service.js",
+              "RelativeToolTip": "ICE TASK 5\\Notes Service\\notes-service.js",
+              "ViewState": "AgIAAC8AAAAAAAAAAAAmwFEAAABOAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
+              "WhenOpened": "2026-10-26T16:58:21.447Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ICE TASK 4",
+              "DocumentMoniker": "C:\\Users\\emeris\\source\\repos\\ICE TASK 5\\ICE TASK 5\\ICE TASK 4.csproj",
+              "RelativeDocumentMoniker": "ICE TASK 5\\ICE TASK 4.csproj",
+              "ToolTip": "C:\\Users\\emeris\\source\\repos\\ICE TASK 5\\ICE TASK 5\\ICE TASK 4.csproj",
+              "RelativeToolTip": "ICE TASK 5\\ICE TASK 4.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2026-10-26T16:57:30.275Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "api-gateway.js",
+              "DocumentMoniker": "C:\\Users\\emeris\\source\\repos\\ICE TASK 5\\ICE TASK 5\\API Gateway\\api-gateway.js",
+              "RelativeDocumentMoniker": "ICE TASK 5\\API Gateway\\api-gateway.js",
+              "ToolTip": "C:\\Users\\emeris\\source\\repos\\ICE TASK 5\\ICE TASK 5\\API Gateway\\api-gateway.js",
+              "RelativeToolTip": "ICE TASK 5\\API Gateway\\api-gateway.js",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAHEAAABMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
+              "WhenOpened": "2026-10-26T16:56:39.082Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

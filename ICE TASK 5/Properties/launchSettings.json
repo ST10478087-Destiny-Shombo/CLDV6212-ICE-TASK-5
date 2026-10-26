@@ -1,0 +1,9 @@
+{
+  "profiles": {
+    "ICE_TASK_5": {
+      "commandName": "Project",
+      "commandLineArgs": "--port 7007",
+      "launchBrowser": false
+    }
+  }
+}
